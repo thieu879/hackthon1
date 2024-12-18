@@ -270,7 +270,6 @@ int main()
             exit(0);
             break;
         default:
-            printf("Lựa chọn không hợp lệ.\n");
             break;
         }
     } while (1);
