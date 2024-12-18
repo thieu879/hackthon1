@@ -242,7 +242,7 @@ int main()
             break;
         case 3:
             printf("Nhập vị trí: ");
-            scanf("%d",&position);
+            scanf("%d", &position);
             printf("Nhập giá trị: ");
             scanf("%d", &data);
             insertAt(&head, data, position);
